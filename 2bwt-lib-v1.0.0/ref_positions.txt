@@ -1,0 +1,1 @@
+47704  214425  1  GCGTGGCTGAAATAcGCTGATtcGA  [(14, 'S', 'ct', '9'), (21, 'I', 'tc', 'A=')]
